@@ -11,5 +11,7 @@ h3[device=ios]{
 }
 
 #backgroundrow{
-    background-color: beige;
+
+    color: beige;
+    background-color: blue;
 }
